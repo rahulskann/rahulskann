@@ -13,14 +13,14 @@ I build across the stack, from digital logic and embedded firmware to software t
 ## Projects
 
 ### Software
-- [**Tremor detection**](link): hand-landmark tracking with FFT signal analysis and an LLM-powered dashboard (Python, MediaPipe, OpenCV, Streamlit)
+- [**Tremor detection**](https://github.com/natashazai/smart-detection): hand-landmark tracking with FFT signal analysis and an LLM-powered dashboard (Python, MediaPipe, OpenCV, Streamlit)
 - [**RoboRacer Bluetooth app**](https://github.com/rahulskann/capstone-bluetooth-test): Bluetooth link between a React Native app and an Arduino Portenta H7 for a Garmin-sponsored pacing-robot capstone (TypeScript, React Native)
-- [**AO3 Kudos Checker**](link): browser extension that flags works you've already given kudos to (JavaScript)
+- [**AO3 Kudos Checker**]: browser extension that flags works you've already given kudos to (JavaScript)
 
 ### Hardware and embedded
-- [**FPGA alarm clock**](link): 24-hour clock with alarm and melody output in SystemVerilog on a DE10-Lite (Quartus, ModelSim)
+- [**FPGA alarm clock**]: 24-hour clock with alarm and melody output in SystemVerilog on a DE10-Lite (Quartus, ModelSim)
 - **Nand2Tetris CPU:** gate-level 16-bit CPU build, in progress (ALU, registers, RAM, program counter done; CPU and assembler next)
-- [**Reactive monitor backlight**](link): Arduino ambient lighting that mirrors on-screen color to LED strips
+- [**Reactive monitor backlight**]: Arduino ambient lighting that mirrors on-screen color to LED strips
 - **LED infinity cube:** Arduino LED cube with Alexa voice control
 
 ## Coursework highlights
