@@ -6,21 +6,25 @@ I build across the stack, from digital logic and embedded firmware to software t
 **Portfolio:** [rahulkannan.com](https://www.rahulkannan.com/)
 
 ## Focus
-- **Software:** Python, C, C++, Java, JavaScript; compilers, computer vision, web tools
-- **Hardware and embedded:** SystemVerilog, Quartus, ModelSim, DE10-Lite FPGA; AVR and x86 assembly; Arduino and ESP32
+- **Software:** Python, C, C++, Java, JavaScript, TypeScript; compilers, computer vision, mobile and web tools
+- **Hardware and embedded:** SystemVerilog, Quartus, ModelSim, DE10-Lite FPGA; AVR and x86 assembly; Arduino, ESP32, Portenta H7
 - **Systems:** computer architecture, operating systems, low-level programming
 
 ## Projects
 
 ### Software
-- [Tremor detection](link): hand-landmark tracking with FFT analysis and an LLM dashboard (Python, MediaPipe, OpenCV, Streamlit)
-- [AO3 Kudos Checker](link): browser extension that flags works you've already given kudos to (JavaScript)
-- [Capstone project](link-if-public): [one line once you tell me what it was]
+- [**Tremor detection**](link): hand-landmark tracking with FFT signal analysis and an LLM-powered dashboard (Python, MediaPipe, OpenCV, Streamlit)
+- [**RoboRacer Bluetooth app**](https://github.com/rahulskann/capstone-bluetooth-test): Bluetooth link between a React Native app and an Arduino Portenta H7 for a Garmin-sponsored pacing-robot capstone (TypeScript, React Native)
+- [**AO3 Kudos Checker**](link): browser extension that flags works you've already given kudos to (JavaScript)
 
 ### Hardware and embedded
-- [FPGA alarm clock](link): 24-hour clock with alarm and melody output in SystemVerilog on a DE10-Lite
-- Nand2Tetris CPU: gate-level 16-bit CPU build, in progress
-- [Reactive monitor backlight](link-if-public): Arduino ambient lighting driven by on-screen color
+- [**FPGA alarm clock**](link): 24-hour clock with alarm and melody output in SystemVerilog on a DE10-Lite (Quartus, ModelSim)
+- **Nand2Tetris CPU:** gate-level 16-bit CPU build, in progress (ALU, registers, RAM, program counter done; CPU and assembler next)
+- [**Reactive monitor backlight**](link): Arduino ambient lighting that mirrors on-screen color to LED strips
+- **LED infinity cube:** Arduino LED cube with Alexa voice control
+
+## Coursework highlights
+Computer architecture (pipelining, caches), AVR and x86 assembly, digital logic design, compilers (Flex/Bison/LLVM), operating systems.
 
 ## Contact
 rahulskann03@gmail.com
